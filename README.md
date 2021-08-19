@@ -1,1 +1,3 @@
 # python_practice
+
+개인적인 파이썬 연습...
